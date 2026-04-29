@@ -1,0 +1,14 @@
+{
+  "name": "vacancy-backend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "dotenv": "^17.4.2",
+    "googleapis": "^171.4.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
